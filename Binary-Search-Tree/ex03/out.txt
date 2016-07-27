@@ -1,0 +1,7 @@
+7  occurs  1
+2  occurs  2
+1  occurs  1
+4  occurs  1
+9  occurs  2
+8  occurs  1
+10  occurs  1
